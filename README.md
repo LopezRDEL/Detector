@@ -105,12 +105,40 @@ Este parte del código fue utilizado para verificar el correcto funcionamiento d
 
 <img width="619" height="806" alt="image" src="https://github.com/user-attachments/assets/6e5e968c-ea01-4d37-8a93-7903a8d44a8f" />
 
+La linea (pygame.camera.init()) Activa el módulo de cámara de Pygame.
+
+## Listado de Cámaras Disponibles
+La linea (camaras =
+pygame.camera.list_cameras()) Permite detectar cámaras conectadas al computador.
 
 
+## Captura de Imágenes
+
+La linea (image = cam.get_image()) Obtiene imágenes en tiempo real desde la cámara.
+
+## Visualización en Pantalla 
+
+La linea (screen.blit(image, (0,0))) Muestra el video capturado dentro de una ventana de Pygame.
+
+# 3 Estructura del Proyecto
 
 <img width="272" height="252" alt="image" src="https://github.com/user-attachments/assets/a080c338-a2a7-46e1-bf1c-6c279a360cdb" />
 
+.venv = Entorno virtual del proyecto
 
+dataset = Contiene imágenes para entrenamiento
+
+runs = Guarda resultados y modelos entrenados
+
+train = Datos del entrenamiento
+
+deteccion.py = Código principal de detección
+
+entrenamiento.py = Script de entrenamiento del modelo
+
+test.py = Pruebas de funcionamiento
+
+yolov8n.pt = Modelo base de YOLOv8
 
 <img width="1388" height="636" alt="image" src="https://github.com/user-attachments/assets/21cf2e82-865c-47cc-9d62-2e7bb87ed820" />
 
