@@ -99,8 +99,12 @@ sobre los objetos detectados.
 
 La linea de codigo (cv2.imshow("Deteccion de Objetos", annotated_frame)) Muestra la ventana con las detecciones realizadas.
 
+# Prueba de Cámara con Pygame
+
+Este parte del código fue utilizado para verificar el correcto funcionamiento de la cámara antes de integrar YOLOv8.
 
 <img width="619" height="806" alt="image" src="https://github.com/user-attachments/assets/6e5e968c-ea01-4d37-8a93-7903a8d44a8f" />
+
 
 
 
