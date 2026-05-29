@@ -140,24 +140,101 @@ test.py = Pruebas de funcionamiento
 
 yolov8n.pt = Modelo base de YOLOv8
 
+# Configuración y conexión con la Inteligencia Artificial
+
 <img width="1388" height="636" alt="image" src="https://github.com/user-attachments/assets/21cf2e82-865c-47cc-9d62-2e7bb87ed820" />
 
+Aquí se configura la conexión del programa con la inteligencia artificial.
 
+Funciones principales:
+
+* Importar librerías necesarias.
+* Crear el cliente de conexión con la IA.
+* Configurar la API Key.
+* Definir el modelo de inteligencia artificial.
+
+Linea a destacar : (client = Groq(api_key=OPENAI_API_KEY$) conecta el programa con el servicio de IA
+
+
+# Función de Reconocimiento de Voz
 
 <img width="1361" height="623" alt="image" src="https://github.com/user-attachments/assets/2e1de6e4-1a63-4c61-a995-0af2e45a7283" />
 
+¿Qué hace esta parte?
+
+El sistema escucha la voz del usuario mediante el micrófono.
+
+Funciones principales:
+
+* Activar micrófono.
+* Escuchar audio.
+* Reducir ruido ambiente.
+* Convertir voz a texto.
+
+  Linea a destacar: (recognizer = sr.Recognizer()) Inicializa el sistema de reconocimiento de voz.
+
+  
+# Construcción de la Interfaz Gráfica
 
 <img width="1338" height="478" alt="image" src="https://github.com/user-attachments/assets/b7468ba7-7698-4dcb-9fbf-6ea216afb9d1" />
 
+¿Qué hace esta parte?
+
+Aquí se crea la interfaz visual del programa.
+
+Elementos principales:
+
+* Caja de texto.
+* Menú desplegable.
+* Área de conversación.
+* Diseño visual.
+
+Linea a destacar: (input_box = TextField(label="Escribe tu mensaje")) Crea la caja donde el usuario escribe.
+
+# Procesamiento de Mensajes y Respuestas
 
 <img width="1375" height="552" alt="image" src="https://github.com/user-attachments/assets/0d962323-d9de-4ead-853d-588c844c1cdf" />
+
+Procesa los mensajes enviados por el usuario y obtiene respuestas de la IA.
+
+Flujo:
+
+1. Usuario envía mensaje.
+2. El mensaje se manda a la IA.
+3. La IA responde.
+4. La respuesta aparece en pantalla.
+
+Linea a destacar: (ai_response = get_ai_response())
+Obtiene la respuesta inteligente.
+
+# Conversión de Texto a Voz
 
 
 <img width="1346" height="607" alt="image" src="https://github.com/user-attachments/assets/cc44f4e3-9db2-448c-b9a4-20fe5e544181" />
 
+La inteligencia artificial responde hablando.
+
+Funciones principales:
+
+* Leer respuestas generadas.
+* Reproducir audio automáticamente.
+
+Linea a destacar: (engine.say(ai_response)) Convierte texto en voz.
+
+# Configuración Final y Ejecución del Programa
 
 <img width="1369" height="572" alt="image" src="https://github.com/user-attachments/assets/9394ee10-e741-44b5-a089-3371058d911f" />
 
+Aquí se configura el tamaño de la ventana y se inicia toda la aplicación.
+
+Funciones principales:
+
+* Ajustar tamaño de pantalla.
+* Actualizar interfaz.
+* Ejecutar aplicación.
+
+Linea a destacar: (page.window.width = 600
+page.window.height = 800) Define el tamaño de la ventana.
 
 <img width="1377" height="206" alt="image" src="https://github.com/user-attachments/assets/43faee61-2a88-4bfc-978d-ebc9ef7ac3fa" />
 
