@@ -57,10 +57,21 @@ Entre estas encontramos
 
 
 
+<img width="1529" height="855" alt="image" src="https://github.com/user-attachments/assets/1dfee8bf-97a7-4d54-a202-7a6b579c58f8" />
 
+
+<img width="619" height="806" alt="image" src="https://github.com/user-attachments/assets/fd75fb77-40e7-4350-8ea5-91853a7e0ed9" />
+
+
+<img width="1388" height="636" alt="image" src="https://github.com/user-attachments/assets/462ade7e-351c-4133-aa04-fea6a9ee637a" />
+
+
+
+<img width="1361" height="623" alt="image" src="https://github.com/user-attachments/assets/5674ad42-4059-4532-bbab-fdb788cd3816" />
 
 
  
+<img width="1338" height="478" alt="image" src="https://github.com/user-attachments/assets/df444d31-64a4-4370-8c56-7dd6c54307e3" />
 
 
 
