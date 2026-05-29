@@ -55,11 +55,53 @@ Entre estas encontramos
 8. Seleccionamos el objeto y saldra el siguiente menu <img width="1361" height="634" alt="image" src="https://github.com/user-attachments/assets/10c1636b-b08b-4455-aa9c-ebc38982b8a6" /> . Seguido se le dara al boton de save. Paso seguido crear la carpeta con el nombre del elemento y darle ¨Save¨
 9. Finalmente se le dara clic a la flecha y continuar con todas las imagenes cargadas. <img width="1803" height="927" alt="image" src="https://github.com/user-attachments/assets/945ab301-e540-489d-94c8-c2933cf47936" />
 
+# 1. Importación de Librerías
 
 <img width="1529" height="855" alt="image" src="https://github.com/user-attachments/assets/d677452b-f273-46e6-a2a5-29a541027aec" />
+-    YOLO: Permite cargar el modelo entrenado.
+-    cv2: Maneja la cámara y procesamiento de video.
+- time: Controla tiempos de espera.
+
+## Carga del Modelo Entrenado
+La linea de codigo (model = YOLO("runs/detect/train-2/weights/best.pt"))carga el modelo entrenado previamente.
+
+El archivo best.pt contiene los pesos aprendidos durante el entrenamiento del modelo.
+
+## Apertura de la Cámara
+
+La linea de codigo (cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)) inicializa la cámara web para capturar video en tiempo real
+
+## Configuración de Resolución 
+Las lineas (cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
+cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480))
+define la resolución de captura del video.
+
+## Captura Continua de Video
+
+La linea (while True:) hace que el programa entra en un ciclo infinito para leer constantemente imágenes de la cámara.
+
+## Detección de Objetos
+
+La linea (results = model(frame)) hace que Cada fotograma capturado es enviado al modelo YOLOv8 para identificar objetos.
+
+## Dibujar Resultados
+
+La linea (annotated_frame = results[0].plot())
+Hace que se dibujen automáticamente:
+
+* Cajas delimitadoras
+* Etiquetas
+* Nivel de confianza
+
+sobre los objetos detectados.
+
+## Mostrar Video en Tiempo Real
+
+La linea de codigo (cv2.imshow("Deteccion de Objetos", annotated_frame)) Muestra la ventana con las detecciones realizadas.
 
 
 <img width="619" height="806" alt="image" src="https://github.com/user-attachments/assets/6e5e968c-ea01-4d37-8a93-7903a8d44a8f" />
+
 
 
 <img width="272" height="252" alt="image" src="https://github.com/user-attachments/assets/a080c338-a2a7-46e1-bf1c-6c279a360cdb" />
