@@ -56,23 +56,35 @@ Entre estas encontramos
 9. Finalmente se le dara clic a la flecha y continuar con todas las imagenes cargadas. <img width="1803" height="927" alt="image" src="https://github.com/user-attachments/assets/945ab301-e540-489d-94c8-c2933cf47936" />
 
 
-
-<img width="1529" height="855" alt="image" src="https://github.com/user-attachments/assets/1dfee8bf-97a7-4d54-a202-7a6b579c58f8" />
-
-
-<img width="619" height="806" alt="image" src="https://github.com/user-attachments/assets/fd75fb77-40e7-4350-8ea5-91853a7e0ed9" />
+<img width="1529" height="855" alt="image" src="https://github.com/user-attachments/assets/d677452b-f273-46e6-a2a5-29a541027aec" />
 
 
-<img width="1388" height="636" alt="image" src="https://github.com/user-attachments/assets/462ade7e-351c-4133-aa04-fea6a9ee637a" />
+<img width="619" height="806" alt="image" src="https://github.com/user-attachments/assets/6e5e968c-ea01-4d37-8a93-7903a8d44a8f" />
+
+
+<img width="272" height="252" alt="image" src="https://github.com/user-attachments/assets/a080c338-a2a7-46e1-bf1c-6c279a360cdb" />
 
 
 
-<img width="1361" height="623" alt="image" src="https://github.com/user-attachments/assets/5674ad42-4059-4532-bbab-fdb788cd3816" />
+<img width="1388" height="636" alt="image" src="https://github.com/user-attachments/assets/21cf2e82-865c-47cc-9d62-2e7bb87ed820" />
 
 
- 
-<img width="1338" height="478" alt="image" src="https://github.com/user-attachments/assets/df444d31-64a4-4370-8c56-7dd6c54307e3" />
+
+<img width="1361" height="623" alt="image" src="https://github.com/user-attachments/assets/2e1de6e4-1a63-4c61-a995-0af2e45a7283" />
 
 
+<img width="1338" height="478" alt="image" src="https://github.com/user-attachments/assets/b7468ba7-7698-4dcb-9fbf-6ea216afb9d1" />
+
+
+<img width="1375" height="552" alt="image" src="https://github.com/user-attachments/assets/0d962323-d9de-4ead-853d-588c844c1cdf" />
+
+
+<img width="1346" height="607" alt="image" src="https://github.com/user-attachments/assets/cc44f4e3-9db2-448c-b9a4-20fe5e544181" />
+
+
+<img width="1369" height="572" alt="image" src="https://github.com/user-attachments/assets/9394ee10-e741-44b5-a089-3371058d911f" />
+
+
+<img width="1377" height="206" alt="image" src="https://github.com/user-attachments/assets/43faee61-2a88-4bfc-978d-ebc9ef7ac3fa" />
 
 
