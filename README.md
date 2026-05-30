@@ -238,4 +238,8 @@ page.window.height = 800) Define el tamaño de la ventana.
 
 <img width="1377" height="206" alt="image" src="https://github.com/user-attachments/assets/43faee61-2a88-4bfc-978d-ebc9ef7ac3fa" />
 
+Funcionamiento Modelo de deteccion YOLO y ChatBot:
+https://drive.google.com/drive/folders/1RE535gL2K8b1dzFXKY5KJAot3D-FLtC2?usp=drive_link
+
+
 
