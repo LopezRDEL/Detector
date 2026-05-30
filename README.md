@@ -1,3 +1,9 @@
+##Integrantes:
+
+Karen Jhojana Camacho Castellanos
+Diego Esteban Lopez Rico
+Edwin Soto Escarraga
+
 # Detector
 
 #### Proposito
