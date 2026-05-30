@@ -1,8 +1,8 @@
-##Integrantes:
+#### Integrantes:
 
-Karen Jhojana Camacho Castellanos
-Diego Esteban Lopez Rico
-Edwin Soto Escarraga
+- Karen Jhojana Camacho Castellanos
+- Diego Esteban Lopez Rico
+- Edwin Soto Escarraga
 
 # Detector
 
